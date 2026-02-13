@@ -62,7 +62,7 @@ noBtn.addEventListener("mouseover", () => {
 yesBtn.addEventListener("click", () => {
     title.textContent = "Yeeyyyy Happy Valentine's Lablab!    ";
 
-    catImg.src = "nonie-bouqet.png";
+    catImg.src = "nonie-bouqet.PNG";
 
     document.querySelector(".letter-window").classList.add("final");
 
